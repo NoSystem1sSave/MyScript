@@ -1,0 +1,2 @@
+# MyScript
+Bangsat kau
